@@ -3,10 +3,12 @@ import React from "react";
 function Detailsupdater(props) {
   return (
     <div>
-      <p> name - {props.daa.name}</p>
-      <p> height - {props.daa.height}</p>
-      <p>mass = {props.daa.mass}</p>
-      <p> skin color - {props.daa.skin_color}</p>
+
+      <p> name - {props.dam.name}</p>
+      <p> height - {props.dam.height}</p>
+      <p>mass = {props.dam.mass}</p>
+      <p> skin color - {props.dam.skin_color}</p>
+      <p> birth_year - {props.dam.birth_year}</p>
     </div>
   );
 }
