@@ -1,0 +1,925 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 242,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "ODmsnQEACAAJ",
+        "etag": "gR0A2ZA7sFI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ODmsnQEACAAJ",
+        "volumeInfo": {
+          "title": "I Too Had a Love Story",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "Penguin Global",
+          "publishedDate": "2013-11-06",
+          "description": "\"...The tender and heartfelt tale of Ravin and Khushi--two people who found each other on a matrimonial site and fell in love...until life put their love to the ultimate test\"--Back cover.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0143418769"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780143418764"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 199,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 9,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ODmsnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ODmsnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=ODmsnQEACAAJ&dq=itoohadalovestory&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=ODmsnQEACAAJ&dq=itoohadalovestory&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/I_Too_Had_a_Love_Story.html?hl=&id=ODmsnQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ODmsnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&quot; ... The tender and heartfelt tale of Ravin and Khushi--two people who found each other on a matrimonial site and fell in love ... until life put their love to the ultimate test&quot;--Back cover."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rm3mDwAAQBAJ",
+        "etag": "QTIyuCr7j5M",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rm3mDwAAQBAJ",
+        "volumeInfo": {
+          "title": "My Ex",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2020-05-29",
+          "description": "Years ago, Ishita broke Vinay's heart. Now, fate has brought them together again. For a long time, Vinay has asked himself the same questions over and over again - why did she leave him? What went wrong? Was their love not strong enough? Now, he has a chance to find the answers he's been searching for. But is he ready to face the truth?",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789390163892"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9390163897"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rm3mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rm3mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=rm3mDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=rm3mDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rm3mDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 54.61,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=rm3mDwAAQBAJ&rdid=book-rm3mDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 54610000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/My_Ex-sample-epub.acsm?id=rm3mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rm3mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Years ago, Ishita broke Vinay&#39;s heart."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "UnjrDwAAQBAJ",
+        "etag": "p/10IHR5Y98",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UnjrDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Love Bites",
+          "authors": [
+            "Richa S Mukherjee",
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2020-06-19",
+          "description": "The pandemic has put the world under lockdown. Meera too sits in her apartment, bored and longing to be outdoors. Her only source of comfort is cooking for her family. And then she meets Kevin, who lives in the flat above hers. Unable to see each other, the two connect nonetheless, talking across their balconies. Soon, Meera finds herself sending baskets of food, recipes and messages across to Kevin, and waiting for his replies. But fate has other plans, and Meera and Kevin's story might not have a happy ending after all.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789390163922"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9390163927"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UnjrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UnjrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=UnjrDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=UnjrDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UnjrDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 54.61,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=UnjrDwAAQBAJ&rdid=book-UnjrDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 54610000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Love_Bites-sample-epub.acsm?id=UnjrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=UnjrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The pandemic has put the world under lockdown."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wQaVDwAAQBAJ",
+        "etag": "l2mdfOYxbLg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wQaVDwAAQBAJ",
+        "volumeInfo": {
+          "title": "The Belated Bachelor Party",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2019-05-27",
+          "description": "- It's been twelve years since Happy, MP, Raamji and Ravin graduated. Well into their married lives, they realize that none of them had a bachelor party before their weddings.But it's never too late to set things right. They go about planning their belated bachelor party - a Euro trip which, well, ends up becoming the trip of their lifetime.Picture this: It's the middle of the night. The four friends wait to be strip-searched by the border police. They are stuck in the no-man's land between Croatia and Slovenia, without valid visas, but with banned party drugs and a rifle cartridge ...Welcome to one hell of a reunion!Bestselling author Ravinder Singh returns with his friends in a hilarious, moving story of friendship and adventure.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789353570736"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9353570735"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 292,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wQaVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wQaVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=wQaVDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=wQaVDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wQaVDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 159,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 106.91,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=wQaVDwAAQBAJ&rdid=book-wQaVDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 159000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 106910000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/The_Belated_Bachelor_Party-sample-epub.acsm?id=wQaVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wQaVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Welcome to one hell of a reunion!Bestselling author Ravinder Singh returns with his friends in a hilarious, moving story of friendship and adventure."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Sm8kEAAAQBAJ",
+        "etag": "2EWYnNGcUvo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Sm8kEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Write Me A Love Story",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2021-05-24",
+          "description": "The blue-eyed boy of Indian publishing, Abhimanyu Razdan is known for his bestselling romances, which move his readers to tears. PaperInk, an up-and-coming publishing house, is looking for an A-list author who will take them to the next level. So, when Abhimanyu's contract with his current publishers comes to an end, PaperInk decides to swoop in. But Abhimanyu isn't quite like the emotional and sensitive characters in the novels he writes. Callous, egoistic and drunk on success, he gets into a hot argument with Asmita, PaperInk's literary fiction editor, even before his first meeting with them. Already put off, despite her apology, he is even more incensed when he discovers that Asmita looks down on popular fiction, especially the kind he writes. He vows to teach her a lesson that could jeopardize her job. At each other's throats, Abhimanyu and Asmita are as different as can be, but fate has something else in store and they soon find that there is no running away from love.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789354223266"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9354223265"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 304,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.1.1.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Sm8kEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Sm8kEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=Sm8kEAAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=Sm8kEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Sm8kEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 200,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 140,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=Sm8kEAAAQBAJ&rdid=book-Sm8kEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 200000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 140000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Write_Me_A_Love_Story-sample-epub.acsm?id=Sm8kEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Sm8kEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "So, when Abhimanyu&#39;s contract with his current publishers comes to an end, PaperInk decides to swoop in. But Abhimanyu isn&#39;t quite like the emotional and sensitive characters in the novels he writes."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "huT5DwAAQBAJ",
+        "etag": "JupkAhen9v0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/huT5DwAAQBAJ",
+        "volumeInfo": {
+          "title": "With Love, Ravinder",
+          "subtitle": "Four Stories About Love, Life and Hope",
+          "authors": [
+            "Ravinder Singh",
+            "R Kokcha",
+            "R Mukherjee"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2020-08-31",
+          "description": "From the King of Romance, Ravinder Singh, come four beautiful and heartwarming stories about love, life and hope. In My Ex, a man runs into the only woman he has ever loved and gets a chance to find answers to questions he's spent years asking himself. In My Mother's Boyfriend, a marriage falls apart, and a question arises - can you find love again in your twilight years? A Kiss in the Air brings us the thrill of the chase and the excitement of finding a connection with a stranger, and Love Bites is a lockdown love story that shows us how the most difficult situations can become blessings in disguise.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789390191826"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9390191823"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.1.1.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=huT5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=huT5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=huT5DwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=huT5DwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=huT5DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 150,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 105,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=huT5DwAAQBAJ&rdid=book-huT5DwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 150000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 105000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/With_Love_Ravinder-sample-epub.acsm?id=huT5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=huT5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "From the King of Romance, Ravinder Singh, come four beautiful and heartwarming stories about love, life and hope."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "4mnoDwAAQBAJ",
+        "etag": "G+e6cU932N4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4mnoDwAAQBAJ",
+        "volumeInfo": {
+          "title": "My Mother's Boyfriend",
+          "authors": [
+            "Ruchi Kokcha",
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2020-06-05",
+          "description": "When Rajni finds out that her husband of several years has fallen in love with his secretary, she is heartbroken. After the divorce, as she falls deeper into depression, her son whisks her away to Goa for a change of scene, in the hope that it will lift her spirits. What he doesn't reckon for is that his fifty-four-year-old mother will find not just a new lease of life, but also true love. Will he be able to make peace with his mother's new boyfriend?",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789390163908"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9390163900"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.5.5.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4mnoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4mnoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=4mnoDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=4mnoDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4mnoDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=4mnoDwAAQBAJ&rdid=book-4mnoDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/My_Mother_s_Boyfriend-sample-epub.acsm?id=4mnoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=4mnoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "When Rajni finds out that her husband of several years has fallen in love with his secretary, she is heartbroken."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "B_HwDwAAQBAJ",
+        "etag": "UwjeWGu8R1Y",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/B_HwDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Love & Lies",
+          "authors": [
+            "Mitali Meelan",
+            "Ravinder Singh"
+          ],
+          "publisher": "Harper Collins",
+          "publishedDate": "2020-07-20",
+          "description": "Kavya and Pranita have been best friends since childhood, and while Kavya is an introvert, Pranita is outgoing and flirtatious. Things change between them as they start their college lives together, and Kavya begins to feel lonely and neglected as Pranita spends more and more of her time with her new boyfriend. Sadly, being single while your friends are dating comes with its own social pressure.So Kavya gets on a dating app, and finds herself a boy to talk to. Very quickly, things get complicated, and Kavya finds herself telling a lie to keep Pranita from guessing that her friend's first date wasn't a success. But the thing with lies is, you need just one more to secure the previous one.A story about friendship, love and deception.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788194681557"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8194681553"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 28,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B_HwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=B_HwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=B_HwDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=B_HwDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B_HwDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=B_HwDwAAQBAJ&rdid=book-B_HwDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Love_Lies-sample-epub.acsm?id=B_HwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=B_HwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "But the thing with lies is, you need just one more to secure the previous one.A story about friendship, love and deception."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "dXpGLwEACAAJ",
+        "etag": "V19zAl2p8ag",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dXpGLwEACAAJ",
+        "volumeInfo": {
+          "title": "Can Love Happen Twice?",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "Penguin Global",
+          "publishedDate": "2011",
+          "description": "Failing to show up after being invited with his friends to talk about his famous love story on a romance-themed radio chat show, Ravin becomes the topic of an emotionally turbulent discussion drawn on his incomplete second book, which reveals astonishing new developments. By the author of I Too Had a Love Story. Reprint.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0143417231"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780143417231"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 216,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 8,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dXpGLwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dXpGLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=dXpGLwEACAAJ&dq=itoohadalovestory&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=dXpGLwEACAAJ&dq=itoohadalovestory&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Can_Love_Happen_Twice.html?hl=&id=dXpGLwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dXpGLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Failing to show up after being invited with his friends to talk about his famous love story on a romance-themed radio chat show, Ravin becomes the topic of an emotionally turbulent discussion drawn on his incomplete second book, which ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "1sXpDwAAQBAJ",
+        "etag": "CJIA0DVWaz4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1sXpDwAAQBAJ",
+        "volumeInfo": {
+          "title": "A Kiss in the Air",
+          "authors": [
+            "Ravinder Singh"
+          ],
+          "publisher": "HarperCollins",
+          "publishedDate": "2020-06-12",
+          "description": "That afternoon, Abhishek Verma met a girl on his flight from Delhi to Siliguri. She didn't tell him her name, but she did willingly give him a kiss. Abhishek can never forget that kiss, shared with the girl of his dreams, 30,000 feet above the ground. After all, it was his first, and he never got to kiss her again. Find out what happened that day ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9789390163915"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "9390163919"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 28,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1sXpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1sXpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=1sXpDwAAQBAJ&printsec=frontcover&dq=itoohadalovestory&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=1sXpDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1sXpDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 63,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 54.61,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=1sXpDwAAQBAJ&rdid=book-1sXpDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 63000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 54610000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/A_Kiss_in_the_Air-sample-epub.acsm?id=1sXpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=1sXpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "That afternoon, Abhishek Verma met a girl on his flight from Delhi to Siliguri."
+        }
+      }
+    ]
+  }
